@@ -1,0 +1,108 @@
+session_config:
+  session_expiration_time: 3
+  carry_over_slots_to_new_session: true
+intents:
+- greet
+- goodbye
+- affirm
+- deny
+- mood_great
+- mood_unhappy
+- bot_challenge
+- loan
+- inform
+- stop
+- thankyou
+- chitchat
+entities:
+- name
+- email
+- phone_number
+- type_loan
+- amount
+slots:
+  amount:
+    type: unfeaturized
+  email:
+    type: unfeaturized
+  name:
+    type: unfeaturized
+  phone_number:
+    type: unfeaturized
+  type_loan:
+    type: unfeaturized
+responses:
+  utter_after_convence:
+  - buttons:
+    - payload: yes
+      title: yes
+    - payload: no
+      title: no
+    text: sir would you like to proced
+  utter_ask_amount:
+  - text: what is the amount you want ot borrow
+  utter_ask_email:
+  - text: what is you email id
+  utter_ask_name:
+  - text: what is you name
+  utter_ask_phone_number:
+  - text: what is you phone number
+  utter_ask_type_loan:
+  - buttons:
+    - payload: car loan
+      title: car loan
+    - payload: bike loan
+      title: bike loan
+    - payload: house loan
+      title: house loan
+    text: what is the loan type
+  utter_convence:
+  - text: "sir please \n sir i need that information to process you application "
+  utter_did_that_help:
+  - buttons:
+    - payload: yes
+      title: yes
+    - payload: no
+      title: no
+    text: Did that help you?
+  utter_goodbye:
+  - text: Bye
+  utter_greet:
+  - text: Hey! How are you?
+  utter_greet2:
+  - buttons:
+    - payload: yes
+      title: yes
+    - payload: no
+      title: no
+    text: i am here to help you to find a loan would you like to help me
+  utter_greet3:
+  - text: ok great.please tell me your name
+  utter_happy:
+  - text: Great, carry on!
+  utter_iamabot:
+  - text: I am a bot, powered by Rasa.
+  utter_noworries:
+  - text: you are welcome :)
+  utter_submit:
+  - text: "you have sucsesfully subimited the form:\n - your name: {name}\n - your\
+      \ gmail: {email}\n - your phone number: {phone_number}\n - your loan type: {type_loan}"
+actions:
+- utter_after_convence
+- utter_ask_amount
+- utter_ask_email
+- utter_ask_name
+- utter_ask_phone_number
+- utter_ask_type_loan
+- utter_convence
+- utter_did_that_help
+- utter_goodbye
+- utter_greet
+- utter_greet2
+- utter_greet3
+- utter_happy
+- utter_iamabot
+- utter_noworries
+- utter_submit
+forms:
+- loan_form

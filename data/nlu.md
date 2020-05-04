@@ -1,0 +1,271 @@
+## intent:greet
+- Hi
+- Hey
+- Hi bot
+- Hey bot
+- Hello
+- Good morning
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+- hallo
+- heeey
+- hi hi
+- hey
+- hey hey
+- hello there
+- hi
+- hello
+- yo
+- hola
+- hi?
+- hey bot!
+- hello friend
+
+
+## intent:goodbye
+- bye
+- goodbye
+- see you around
+- see you later
+
+## intent:affirm
+- yeah a cheap restaurant serving international food
+- correct
+- ye
+- uh yes
+- let's do it
+- yeah
+- uh yes
+- um yes
+- yes knocking
+- that's correct
+- yes yes
+- right
+- yea
+- yes
+- yes right
+- yes and i dont care
+- right on
+- i love that
+
+## intent:deny
+- no
+- no new selection
+- no thanks
+- no thank you
+- uh no
+- breath no
+- do you have something else
+- no this does not work for me
+
+## intent:thankyou
+- um thank you good bye
+- okay cool uh good bye thank you
+- okay thank you good bye
+- you rock
+- and thats all thank you and good bye
+- thank you and good bye
+- sorry about my mistakes thank you good bye
+- noise thank you good bye
+- thank you goodbye noise
+- okay thank you goodbye
+- uh thank you good bye
+- thank you goodbye
+- thank you goodbye noise thank you goodbye
+- breath thank you goodbye
+- thank you
+- okay thank you
+- thanks goodbye
+- ah thank you goodbye
+- thank you noise
+- thank you good bye
+- breath thank you very much goodbye
+- thanks
+- noise thank you goodbye
+- unintelligible thank you goodbye
+- uh okay thank you good bye
+- thank you bye
+- um okay thank you good bye
+
+
+## intent:chitchat
+- can you share your boss with me?
+- i want to get to know your owner
+- i want to know the company which designed you
+- i want to know the company which generated you
+- i want to know the company which invented you
+- i want to know who invented you
+- May I ask who invented you?
+- please tell me the company who created you
+- please tell me who created you
+- tell me more about your creators
+- tell me more about your founders
+- Ahoy matey how are you?
+- are you alright
+- are you having a good day
+- Are you ok?
+- are you okay
+- Do you feel good?
+- how are things going
+- how are things with you?
+- How are things?
+- how are you
+- how are you doing
+- how are you doing this morning
+- how are you feeling
+- how are you today
+- How are you?
+- How is the weather today?
+- What's the weather like?
+- How is the weather?
+- What is the weather at your place?
+- Do you have good weather?
+- Is it raining?
+- What's it like out there?
+- Is it hot or cold?
+- Beautiful day, isn't it?
+- What's the weather forecast?
+- Is it quite breezy outside?
+
+## intent:bot_challenge
+- are you a bot?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?
+
+## intent:stop
+- ok then you cant help me
+- that was shit, you're not helping
+- you can't help me
+- you can't help me with what i need
+- i guess you can't help me then
+- ok i guess you can't help me
+- that's not what i want
+- ok, but that doesnt help me
+- this is leading to nothing
+- this conversation is not really helpful
+- you cannot help me with what I want
+- I think you cant help me
+- hm i don't think you can do what i want
+- stop
+- stop go back
+- do you get anything?
+- and you call yourself bot company? pff
+- and that's it?
+- nothing else?
+
+
+
+## intent:loan
+- i need a loan
+- i need loan
+- i need loan
+- loan
+- i want somae loan
+- i need loan
+- i need a loan in exchange
+- i need a loan!
+- i need a loan on the house from the bank of england
+- i need money
+- i need insurance
+- i need a loan
+- i need a credit
+- i need my borrowed
+- i have to borrow
+- i need your loan!
+- i want a loan
+- i'm looking for loan
+- i need a loan, baby!
+- i need a guarantor
+- i need credit
+- i need a loan from you!
+- i need your loan
+- i need the loan, i don't need them anymore!
+- i need credit!
+- i want to borrow your loan?
+- i need a loan...
+
+
+
+## intent:inform
+- my name is [harshith](name) - my name is [harshith](name)  he's...
+- my name is [surya](name) and i'm going to have a baby!
+- my name's [rama chandra](name)  your name is ralph, i think...
+- my name is [durga](name)  and i'm going to be honest with you 
+- my name's [priya](name)  and i hate my sister a lot, you know?
+- i have to tell you, my name's [harichandra](name) 
+- my name is [ramesh](name) i 'll be right back
+- my name's [suresh](name)  my name's cold-blooded!
+- my name's [ramchandra](name) 
+- my name is [shiva](name) and i'm very much looking to meet you 
+- i have a name's [niklesh](name)
+- my name's [reddy](name) and i have no idea whose house i'm at,
+- my name's [sheggam harshith](name) jim!
+- my name is [naveen namani](name) and my name is sarah andersson
+- my name's [harshith](name) 
+- my name's [surya](name) i 'll take care of you.i 'll take care
+- my name's [harshith](name) i'm the one who taught him how to kill.
+- [100k](amount)
+- [100k](amount)
+- [240k/year](amount)
+- amount needed is [100k](amount) 
+- the number of the loan is [100324k](amount)
+- the amount required is [100](amount) grand
+- the amount needed is [500k](amount)
+- the amount required is [100](amount)
+- total expense amount is [101230k](amount) 
+- the cost is [100](amount) million
+- the amount required is [1006k](amount) 
+- the amount of the required funds is [$13200k](amount) 
+- the amount of funds required is [100](amount) kilos.
+- total amount needed is [100](amount) million
+- the amount needed is [100](amount) million
+- the amount of the loan is [6100k](amount) 
+- the amount required is [100](amount) k
+- the amount needed is [$1500k](amount) 
+- this appropriation is [1800k](amount) 
+- the amount requested is [400](amount)
+- the amount required is [130](amount) kb
+- the amount requested is [8100k](amount) 
+- the amount required is [10340](amount)
+- the amount required shall be [100](amount)
+- the amount needed is [1020](amount) million
+- the amount required is [9400k](amount) 
+- the maximum amount of the loan is [800k](amount) 
+- amount needed is [1030](amount)
+- value of the amount is [7200k](amount) 
+- the amount needed will be $ [12300](amount) million
+- the amount needed is [1400](amount) mil
+- this amount is needed per [10340](amount)
+- the amount required is [112300](amount) kilos
+- the amount needed is [10430](amount) billion.
+- the amount needed is [10230](amount) thousand.
+- the amount of the contribution will be [600k](amount)
+- the amount needed is [500 million](amount)
+- the amount you need is [400 million](amount)
+- the amount of the required contribution is [100](amount)
+- [150,000 USD](amount)
+- [maxmeier@firma.de](email)
+- [harshit675@gmail.com](email)
+- [maxmeier@firma.de](email)
+- [bot-fan@bots.com](email)
+- [my email is email@rasa.com](email)
+- [harshith](name) (name)
+- [Jane Doe](name)
+- [Max Mustermann](name)
+- [Max Meier](name)
+- [123456](phone_number)
+- [6302953723](phone_number)
+- [+91-9666245749](phone_number)
+- [house loan](type_loan)
+- [car loan](type_loan)
+- [personal loan](type_loan)
+- [gold loan](type_loan)
+- [bike loan](type_loan)
